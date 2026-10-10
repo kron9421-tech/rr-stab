@@ -9,9 +9,8 @@ import {
   DialogTrigger,
 } from "@/components/ui/dialog";
 
-// TODO: подставьте реальные ссылки на мессенджеры магазина (сейчас это заглушки).
-export const TELEGRAM_URL = "https://t.me/";
-export const WHATSAPP_URL = "https://wa.me/";
+export const TELEGRAM_URL = "https://t.me/theigoryan";
+export const WHATSAPP_URL = "https://wa.me/79119234791";
 
 // Прокрутка к якорю с учётом фиксированной шапки. Запускается с небольшой задержкой,
 // чтобы целевой блок успел отрисоваться (иначе scrollIntoView срабатывает вхолостую).
